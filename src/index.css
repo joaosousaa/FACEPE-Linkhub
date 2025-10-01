@@ -13,7 +13,7 @@ html,
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(135deg, #2563eb, #d0d0d0, #ffffff);
+  background: linear-gradient(135deg, #711f8b, #d0d0d0, #ffffff);
   min-height: 100vh;
 }
 
@@ -40,6 +40,7 @@ html,
   margin: 0;
   font-size: 1.8rem;
   color: #323232;
+  font-family: 'SUSE Mono', monospace;
 }
 
 .header p {
@@ -66,7 +67,7 @@ html,
   justify-content: center;
   gap: 6px;
   text-decoration: none;
-  background: #2563eb;
+  background: #711f8b;
   color: white;
   padding: 10px;
   border-radius: 100px;
@@ -74,7 +75,7 @@ html,
 }
 
 .links a:hover {
-  background: #1e40af;
+  background: #ffad01;
 }
 
 /* Toggle */
@@ -84,7 +85,7 @@ html,
   top: 16px;
   right: 16px;
   border: none;
-  background: #2563eb;
+  background: #711f8b;
   padding: 6px 10px;
   border-radius: 100px;
   cursor: pointer;
@@ -92,7 +93,7 @@ html,
 }
 
 .toggle:hover {
-  background: #1e40af;
+  background: #ffad01;
 }
 
 .frase {
@@ -104,7 +105,7 @@ html,
 
 /* Dark Mode */
 .app.dark {
-  background: linear-gradient(135deg, #2563eb, #1a1a1a, #000000);
+  background: linear-gradient(135deg, #711f8b, #1a1a1a, #000000);
 }
 
 .app.dark .container {

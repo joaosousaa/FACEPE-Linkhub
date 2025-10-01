@@ -1,4 +1,4 @@
-import perfil from "../assets/hapvida.webp";
+import perfil from "../assets/elevare.png";
 
 const Header = () => {
     return (
@@ -8,8 +8,7 @@ const Header = () => {
                 alt="Foto de perfil"
                 className="profile"
             />
-            <h1>Hapvida</h1>
-            <p>Faz bem para você</p>
+            <h1>ELEVARE</h1>
         </div>
     );
 };

@@ -1,7 +1,7 @@
 const About = () => {
     return (
         <p className="about">
-           Cuidando de você em cada detalhe. Encontre aqui tudo o que precisa de forma rápida e prática.
+            Somos movidos por inovação e construímos ferramentas que transformam desafios em oportunidades de crescimento.
         </p>
     );
 };
