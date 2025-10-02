@@ -1,8 +1,8 @@
 import { FaLinkedin } from "react-icons/fa";
 import { MdAppShortcut, MdComputer } from "react-icons/md";
 const linksData = [
-    { name: "Protótipo App Motivaé", url: "https://www.figma.com/proto/pJ78BxuSo4PrX4aGUYine1", icon: <MdAppShortcut /> },
-    { name: "Protótipo Sistema Motivaé", url: "https://www.figma.com/proto/IFOjEjk6XmJIAviJQbks1N", icon: <MdComputer /> },
+    { name: "Protótipo App Motivaê", url: "https://www.figma.com/proto/pJ78BxuSo4PrX4aGUYine1", icon: <MdAppShortcut /> },
+    { name: "Protótipo Sistema Motivaê", url: "https://www.figma.com/proto/IFOjEjk6XmJIAviJQbks1N", icon: <MdComputer /> },
     { name: "João Sousa", url: "https://www.linkedin.com/in/jo%C3%A3o-sousa-357292229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ", icon: <FaLinkedin /> },
     { name: "Thainá Pontes", url: "https://www.linkedin.com/in/thainapontes?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ", icon: <FaLinkedin /> },
     { name: "Thiago Andrade", url: "https://www.linkedin.com/in/thiago-andrade-7b306836a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ", icon: <FaLinkedin /> },
